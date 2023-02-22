@@ -5,9 +5,11 @@ Aqui está a resolução dos desafios de código de alguns bootcamp da DIO.
 Os desafios fazem parte dos seguintes bootcamps: 
 
 <p>
+✅ Kotlin Experience <br>
 ✅ Orange Tech + | BackEnd <br>
-✅ Trainee Grupo Carrefour Brasil - Liderança Negra <br>
-✅ Potência Tech powered by iFood - Java Beginners <br> 
+✅ Spring Framework Experience <br>
+✅ Potência Tech powered by iFood - Java Beginners <br>
+✅ Trainee Grupo Carrefour Brasil - Liderança Negra <br> 
 </p>
 
 ----
