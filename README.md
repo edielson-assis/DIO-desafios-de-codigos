@@ -7,6 +7,7 @@ Os desafios fazem parte dos seguintes bootcamps:
 <p>
 ✅ Kotlin Experience <br>
 ✅ Orange Tech + | BackEnd <br>
+✅ Banco PAN Java Developer <br>
 ✅ Spring Framework Experience <br>
 ✅ Potência Tech powered by iFood - Java Beginners <br>
 ✅ Trainee Grupo Carrefour Brasil - Liderança Negra <br> 
